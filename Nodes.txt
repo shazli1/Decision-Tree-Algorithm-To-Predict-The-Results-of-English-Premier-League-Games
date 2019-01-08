@@ -1,0 +1,15 @@
+Root Node = HST
+
+Level 1 Nodes:
+==============
+L1-Low Node = AST
+L1-High Node = HY
+
+Level 2 Nodes:
+==============
+L2-Low-Low Node = AY
+L2-Low-Med Node = AF
+L2-Low-High Node = [0,5] "A Team winds"
+L2-High-Low Node = AC
+L2-High-Med Node = HF
+L2-High-High Node = AY
