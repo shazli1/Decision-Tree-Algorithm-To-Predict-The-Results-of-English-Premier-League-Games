@@ -7,20 +7,7 @@ Implement an algorithm that builds a 3-level decision tree to predict the outcom
 
 Attributes:
 ===========
-Home Team
-Away Team
-HS: Home Team Shots
-AS: Away Team Shots
-HST: Home Team Shots on Target
-AST: Away Team Shots on Target
-HF: Home Team Fouls Committed
-AF: Away Team Fouls Committed
-HC: Home Team Corners
-AC: Away Team Corners
-HY: Home Team Yellow Cards
-AY: Away Team Yellow Cards
-HR: Home Team Red Cards
-AR: Away Team Red Cards
+Home Team. Away Team. HS: Home Team Shots. AS: Away Team Shots. HST: Home Team Shots on Target. AST: Away Team Shots on Target. HF: Home Team Fouls Committed. AF: Away Team Fouls Committed. HC: Home Team Corners. AC: Away Team Corners. HY: Home Team Yellow Cards. AY: Away Team Yellow Cards. HR: Home Team Red Cards. AR: Away Team Red Cards. FTR: Full Time Result.
 
 Features Discretization:
 ========================
